@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JinzheTan, a Phd student in the University of Montreal
 - 👀 I’m interested in the use of NLP in legal texts
 - 🌱 I’m currently learning AI and Law
-- 💞️ I’m looking to collaborate on NLP
+- 💞️ I’m looking to collaborate on NLP on legal text
 - 📫 How to reach me tanjinzhe.ius@gmail.com
 
 <!---
