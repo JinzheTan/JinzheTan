@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @JinzheTan, a Phd student at the Faculty of Law, University of Montreal
-- 👀 I’m interested in AI and Law
-- 🖥️ [Personal website](jinzhetan.github.io)
-- 📫 How to reach me (tanjinzhe.ius@gmail.com)
+- 👋 Hi, I’m @JinzheTan
 
 <!---
 JinzheTan/JinzheTan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
